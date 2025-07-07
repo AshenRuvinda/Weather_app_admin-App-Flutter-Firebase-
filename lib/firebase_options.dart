@@ -22,7 +22,7 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // Replace with your Firebase project configuration values
+
 
 
   static const FirebaseOptions web = FirebaseOptions(
